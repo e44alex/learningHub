@@ -1,0 +1,3 @@
+A gateway is typically a simple wrapper. We look at what our code needs to do with the external system and construct an interface that supports that clearly and directly. We then implement the gateway to translate that interaction to the terms of the external system. This will usually involve translating a familiar function call into what's required by the foreign API, adjusting parameters as needed to make it work. When we get the results, we then transform those into a form that's easily consumable in our code. As our code grows, making new demands on the external system, we enhance the gateway to continue to support its different needs.
+
+![[Pasted image 20230725094139.png]]

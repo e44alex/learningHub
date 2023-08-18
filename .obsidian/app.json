@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "livePreview": false,
+  "spellcheckLanguages": null,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
+}

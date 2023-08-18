@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "fe27f44abf241641",
+    "type": "split",
+    "children": [
+      {
+        "id": "10be2b579bba7c6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6ca9c4e2fc09407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software architecture/Martin Fowler's enterprise patterns/Martin Fowler's enterprise patterns.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e3a49129d8f8bd8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/900 -- Fundamentals/Info.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39907421f1df8535",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbdb1416c23e0ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09df7cd3c6f62942",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ec3d2454148f944",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb994eda41965024",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1399740e510dcc31",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0726a01376b7856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee15a2a0553edcd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure/900 -- Fundamentals/Info.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a1833da952c071ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Azure/900 -- Fundamentals/Info.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "34923ea6de0ec9f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b45d2c5ceb0b20e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Azure/900 -- Fundamentals/Info.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e3a49129d8f8bd8f",
+  "lastOpenFiles": [
+    "Azure/900 -- Fundamentals/Commands.md",
+    "Azure/900 -- Fundamentals/Info.md",
+    "Resources/Pasted image 20230817175947.png",
+    "Resources/Pasted image 20230817182908.png",
+    "Resources/Pasted image 20230817182852.png",
+    "Resources/Pasted image 20230817182829.png",
+    "Resources/Pasted image 20230817182647.png",
+    "Resources/Pasted image 20230817182620.png",
+    "Resources/Pasted image 20230817182610.png",
+    "Resources/Pasted image 20230817180136.png",
+    "Resources/Pasted image 20230817180128.png",
+    "Resources/Pasted image 20230817175527.png",
+    "Azure/204 -- Development/Questions.md",
+    "Azure/900 -- Fundamentals/Questions list.md",
+    "Azure/204 -- Development",
+    "Azure/Без названия.md",
+    "Software architecture/Martin Fowler's enterprise patterns/Patterns/Specification.md",
+    "Azure/900 -- Fundamentals",
+    "Azure",
+    "Software architecture/Martin Fowler's enterprise patterns/Martin Fowler's enterprise patterns.md",
+    "Software architecture/GOF patterns/GOF patterns.md",
+    "Software architecture/GOF patterns/Patterns/Proxy (aka Wrapper).md",
+    "Software architecture/Networking - CAP and PACELC.md",
+    "Software architecture/UNPHAT.md",
+    "Software architecture/Martin Fowler's enterprise patterns/Patterns/Unit of work.md",
+    "Software architecture/GOF patterns/Patterns/Bridge.md",
+    "Software architecture/GOF patterns/Patterns/Factory method.md",
+    "Software architecture/GOF patterns/Patterns/Decorator.md",
+    "Software architecture/Martin Fowler's enterprise patterns/Patterns/Gateway.md",
+    "Software architecture/Martin Fowler's enterprise patterns/Patterns/DTO.md",
+    "Software architecture/Martin Fowler's enterprise patterns/Patterns/MVC.md",
+    "Software architecture/Martin Fowler's enterprise patterns/Patterns/Lazy loading.md",
+    "Software architecture/Martin Fowler's enterprise patterns/Patterns",
+    "Software architecture/GOF patterns/Patterns/Facade.md",
+    "Software architecture/GOF patterns/Patterns",
+    "Software architecture/Martin Fowler's enterprise patterns",
+    "Resources",
+    "Без названия.md",
+    "Software architecture/GOF patterns",
+    "Software architecture",
+    "Без названия.canvas",
+    "Test/test1234.md",
+    "Test/Test123.md",
+    "Test.md",
+    "Test",
+    "Test2.md"
+  ]
+}

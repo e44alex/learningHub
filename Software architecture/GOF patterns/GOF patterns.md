@@ -1,0 +1,5 @@
+[[Bridge]]
+[[Decorator]]
+[[Facade]]
+[[Factory method]]
+[[Proxy (aka Wrapper)]]
